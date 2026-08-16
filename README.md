@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 👋
 
 <!--
 **lgns1027/lgns1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🌱 Experience
 
 **🦁 한성대학교 멋쟁이사자처럼 14기 — 기획 아기사자**  
-*2026.03 ~ * 
+**2026.03 ~ ** 
 
 <br>
 
