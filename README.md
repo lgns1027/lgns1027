@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏃 Experience</li>🦁 한성대학교 멋쟁이사자처럼 14기 — 기획 아기사자</li>2026.03 ~ </li></li>🏆 Awards & Achievements</li></li>🥈 2026.08 | 제13회 한성대 창의융합경진대회 은상 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏃 Experience</li><br>🦁 한성대학교 멋쟁이사자처럼 14기 — 기획 아기사자</li>2026.03 ~ </li></li><br>🏆 Awards & Achievements</li></li><br>🥈 2026.08 | 제13회 한성대 창의융합경진대회 은상 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
