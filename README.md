@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 
 ## 💬 Project
 
-**코드플로우** <a href = "https://www.youtube.com/watch?v=grjP2NVJKQs&t=3s"> 설명영상 </a>
-**초이스잇** <a href = "https://www.youtube.com/watch?v=p7W-FE80DL4"> 설명영상 </a>
+**코드플로우** <a href = "https://www.youtube.com/watch?v=grjP2NVJKQs&t=3s"> 설명영상 </a><br>
+**초이스잇** <a href = "https://www.youtube.com/watch?v=p7W-FE80DL4"> 설명영상 </a><br>
 **위어스** <a href = "https://www.we-us.online/"> 접속하기 </a>
 
 <br>
 
 ## 🔭 The Others
 
-**경기도 청소년 칼럼니스트** <a href = "https://www.kyeonggi.com/article/20220811580144"> 경기일보 기사 </a>
+**경기도 청소년 칼럼니스트** <a href = "https://www.kyeonggi.com/article/20220811580144"> 경기일보 기사 </a><br>
 **브런치 스토리** <a href = "https://brunch.co.kr/@9f5afb4cd7094da"> 이동하기 </a>
 
 <div style="text-align: left;"> 
