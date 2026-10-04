@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 💬 Project
 
 **코드플로우 기획/개발** <a href = "https://www.youtube.com/watch?v=grjP2NVJKQs&t=3s"> 설명영상 </a><br>
-**초이스잇 기획** <a href = "https://www.youtube.com/watch?v=p7W-FE80DL4"> 설명영상 </a> <a href = "https://www.figma.com/design/gSe4xn5p0VpJVwePZuFjSf/%EC%B4%88%EC%9D%B4%EC%8A%A4%EC%9E%87?node-id=0-1&t=d8pVUuHR4NyCxTET-1"> 와이어프레임 </a> <br>
+**초이스잇 기획** <a href = "https://www.youtube.com/watch?v=p7W-FE80DL4"> 설명영상 </a> <br>
 **쓰담 기획** <a href = "https://www.figma.com/design/be0UwbAuhMzGPfL3wBlaRE/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-14%EA%B8%B0-%EC%A4%91%EC%95%99%ED%86%A4?node-id=0-1&t=Yzv8ASR2oD6vsOv0-1"> 와이어프레임 </a> <br>
 **위어스 기획/개발** <a href = "https://www.we-us.online/"> 접속하기 </a>
 
