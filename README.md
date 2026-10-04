@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🔭 The Others
 
-**경기도 청소년 칼럼니스트** <a href = "https://www.kyeonggi.com/article/20220811580144"> 경기일보 기사 </a><br>
+**경기도 청소년 칼럼니스트** <a href = "https://www.kyeonggi.com/article/20220811580144"> 칼럼 </a><br>
 **브런치 스토리** <a href = "https://brunch.co.kr/@9f5afb4cd7094da"> 이동하기 </a>
 
 <div style="text-align: left;"> 
